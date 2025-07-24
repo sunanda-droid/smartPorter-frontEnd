@@ -1,0 +1,68 @@
+{
+  "dashboard": {
+    "javaProjects": 120,
+    "impactedJavaProjects": 45,
+    "pythonProjects": 120,
+    "impactedPythonProjects": 45,
+  "TableData": [
+    {
+      "id": 1,
+      "name": "CIO Enabling Services",
+      "JavaProjects": {
+        "impacted": "15",
+        "percentageImpact": "30%"
+      },
+      "pythonProjects": {
+        "impacted": "15",
+        "percentageImpact": "30%"
+      }
+    },
+    {
+      "id": 2,
+      "name": "CIO Commercial",
+      "JavaProjects": {
+        "impacted": "15",
+        "percentageImpact": "10%"
+      },
+      "pythonProjects": {
+        "impacted": "15",
+        "percentageImpact": "30%"
+      }
+    },
+    {
+      "id": 3,
+      "name": "CIO Enterprise Services",
+      "JavaProjects": {
+        "impacted": "15",
+        "percentageImpact": "30%"
+      },
+      "PythonProjects": {
+        "impacted": "15",
+        "percentageImpact": "30%"
+      }
+    },
+    {
+      "id": 4,
+      "name": "CIO Consumer",
+      "JavaProjects": {
+        "impacted": "15",
+        "percentageImpact": "30%"
+      },
+      "PythonProjects": {
+        "impacted": "15",
+        "percentageImpact": "30%"
+      }
+    },{
+      "id": 5,
+      "name": "CIO Security",
+      "JavaProjects": {
+        "impacted": "15",
+        "percentageImpact": "30%"
+      },
+      "PythonProjects": {
+        "impacted": "15",
+        "percentageImpact": "30%"
+      }
+    }
+  ] }
+}

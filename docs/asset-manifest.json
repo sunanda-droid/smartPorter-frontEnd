@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b41f0af3.js",
+    "static/media/smartporter-logo.png": "/static/media/smartporter-logo.950157fc373c5c5bad97.png",
+    "index.html": "/index.html",
+    "main.b41f0af3.js.map": "/static/js/main.b41f0af3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b41f0af3.js"
+  ]
+}

@@ -1,0 +1,47 @@
+ [
+  {
+    "groupId": "org.apache.maven",
+    "artifactId": "maven-model",
+    "currentVersion": "3.9.6",
+    "compatibilityFlag": true,
+    "compatibilitySummary": "Incompatible: Major version changed from 2 to 4",
+    "latestVersion": "4.0.0-alpha-4",
+    "status": "Update available"
+  },
+  {
+    "groupId": "org.apache.maven",
+    "artifactId": "maven-model-builder",
+    "currentVersion": "3.9.6",
+    "compatibilityFlag": true,
+    "compatibilitySummary": "Incompatible: Major version changed from 2 to 4",
+    "latestVersion": "4.0.0-alpha-4",
+    "status": "Update available"
+  },
+  {
+    "groupId": "org.apache.httpcomponents.core5",
+    "artifactId": "httpcore5",
+    "compatibilityFlag": true,
+    "compatibilitySummary": "Incompatible: Major version changed from 2 to 4",
+    "currentVersion": "5.3.4",
+    "latestVersion": "5.3.4",
+    "status": "Update available"
+  },
+  {
+    "groupId": "org.apache.httpcomponents.clients",
+    "artifactId": "httpclient5-fluent",
+    "currentVersion": "5.3.1",
+    "compatibilityFlag": true,
+    "compatibilitySummary": "Incompatible: Major version changed from 2 to 4",
+    "latestVersion": "5.3.1",
+    "status": "Update available"
+  },
+  {
+    "groupId": "com.fasterxml.jackson.core",
+    "artifactId": "jackson-databind",
+    "compatibilityFlag": true,
+    "compatibilitySummary": "Incompatible: Major version changed from 2 to 4",
+    "currentVersion": "2.17.1",
+    "latestVersion": "2.49.1",
+    "status": "Update available"
+  }
+]
